@@ -13,9 +13,15 @@
   <img align="center" alt="Mariana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mariana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mariana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mariana-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Mariana-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Mariana-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Mariana-Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Mariana-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="Mariana-CorelDraw" height="30" width="40" src="https://imag.malavida.com/mvimgbig/download-fs/coreldraw-369-0.jpg">
   <img align="right" alt="Mariana-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e40941d523d6befc1d4689c935d4371b.gif">
 </div>
-  
+
  ##
   
   <div> 
