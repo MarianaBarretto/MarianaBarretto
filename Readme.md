@@ -20,7 +20,6 @@
   <img align="center" alt="Mariana-Intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Mariana-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Mariana-CorelDraw" height="30" width="40" src="https://imag.malavida.com/mvimgbig/download-fs/coreldraw-369-0.jpg">
-  <img align="right" alt="Mariana-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e40941d523d6befc1d4689c935d4371b.gif">
   <img align="right" alt="Mariana-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c861f58ab5278fda7957bd2f5f80e08c.gif">
 </div>
 
