@@ -1,6 +1,6 @@
 ## Oiii eu sou a Mariana Barretto
 
-- 🌱 Estudando JavaScript, HTML E CSS
+- 🌱 Estudando Java
 
 
 
