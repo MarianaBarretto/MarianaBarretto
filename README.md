@@ -16,32 +16,47 @@
             <picture id="git">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Git-F5F5F5?style=flat&logo=git">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-                <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git a badge">
             </picture>
             <picture id="docker">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Docker-F5F5F5?style=flat&logo=docker">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">
-                <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" alt="Docker a badge">
             </picture>
             <picture id="jenkins">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Jenkins-F5F5F5?style=flat&logo=jenkins&logoColor=black">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white">
-                <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white" alt="Jenkins a badge">
             </picture>
             <picture id="amazon-web-service">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-AWS-F5F5F5?style=flat&logo=amazon-aws&logoColor=yellow">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow">
-                <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=yellow" alt="AWS a badge">
             </picture>
             <picture id="prometheus">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Prometheus-F5F5F5?style=flat&logo=prometheus">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus">
-                <img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus" alt="Prometheus a badge">
             </picture>
             <picture id="grafana">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Grafana-F5F5F5?style=flat&logo=grafana">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana">
-                <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana" alt="Show a badge">
+                <img src="https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana" alt="Grafana a badge">
+            </picture>
+          <picture id="datadog">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-DataDog-F5F5F5?style=flat&logo=datadog">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-DataDog-05122A?style=flat&logo=datadog">
+                <img src="https://img.shields.io/badge/-DataDog-05122A?style=flat&logo=datadog" alt="DataDog a badge">
+            </picture>
+          <picture id="servicenow">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-ServiceNow-F5F5F5?style=flat&logo=servicenow">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow">
+                <img src="https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=datadog" alt="ServiceNow a badge">
+            </picture>
+            <picture id="SQL">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-SQL-F5F5F5?style=flat&logo=sql">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql">
+                <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=coreldraw" alt="SQL badge">
             </picture>
             <picture id="javascript">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-JavaScript-F5F5F5?style=flat&logo=javascript">
@@ -72,6 +87,26 @@
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-VSCode-F5F5F5?style=flat&logo=visual-studio-code">
                 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code">
                 <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code" alt="VSCode badge">
+            </picture>
+            <picture id="Miro">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Miro-F5F5F5?style=flat&logo=miro">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Miro-05122A?style=flat&logo=miro">
+                <img src="https://img.shields.io/badge/-Miro-05122A?style=flat&logo=coreldraw" alt="Miro badge">
+            </picture>
+           <picture id="Trello">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Trello-F5F5F5?style=flat&logo=trello">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello">
+                <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=coreldraw" alt="Trello badge">
+            </picture>
+          <picture id="Jira">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Jira-F5F5F5?style=flat&logo=jira">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira">
+                <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=coreldraw" alt="Jira badge">
+            </picture>
+           <picture id="Figma">
+                <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Figma-F5F5F5?style=flat&logo=figma">
+                <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">
+                <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=coreldraw" alt="Figma badge">
             </picture>
             <picture id="coreldraw">
                 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-CorelDRAW-F5F5F5?style=flat&logo=coreldraw">
